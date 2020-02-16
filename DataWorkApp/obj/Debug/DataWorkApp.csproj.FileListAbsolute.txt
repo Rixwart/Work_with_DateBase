@@ -1,0 +1,17 @@
+C:\Users\Rixwart\source\repos\DataWorkApp\DataWorkApp\bin\Debug\DataWorkApp.exe.config
+C:\Users\Rixwart\source\repos\DataWorkApp\DataWorkApp\bin\Debug\DataWorkApp.exe
+C:\Users\Rixwart\source\repos\DataWorkApp\DataWorkApp\bin\Debug\DataWorkApp.pdb
+C:\Users\Rixwart\source\repos\DataWorkApp\DataWorkApp\obj\Debug\DataWorkApp.csprojAssemblyReference.cache
+C:\Users\Rixwart\source\repos\DataWorkApp\DataWorkApp\obj\Debug\DataWorkApp.LoginForm.resources
+C:\Users\Rixwart\source\repos\DataWorkApp\DataWorkApp\obj\Debug\DataWorkApp.Properties.Resources.resources
+C:\Users\Rixwart\source\repos\DataWorkApp\DataWorkApp\obj\Debug\DataWorkApp.csproj.GenerateResource.cache
+C:\Users\Rixwart\source\repos\DataWorkApp\DataWorkApp\obj\Debug\DataWorkApp.csproj.CoreCompileInputs.cache
+C:\Users\Rixwart\source\repos\DataWorkApp\DataWorkApp\obj\Debug\DataWorkApp.exe
+C:\Users\Rixwart\source\repos\DataWorkApp\DataWorkApp\obj\Debug\DataWorkApp.pdb
+C:\Users\Rixwart\source\repos\DataWorkApp\DataWorkApp\bin\Debug\EntityFramework.dll
+C:\Users\Rixwart\source\repos\DataWorkApp\DataWorkApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Rixwart\source\repos\DataWorkApp\DataWorkApp\bin\Debug\EntityFramework.xml
+C:\Users\Rixwart\source\repos\DataWorkApp\DataWorkApp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Rixwart\source\repos\DataWorkApp\DataWorkApp\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Rixwart\source\repos\DataWorkApp\DataWorkApp\obj\Debug\DataWorkApp.ManagerForm.resources
+C:\Users\Rixwart\source\repos\DataWorkApp\DataWorkApp\obj\Debug\DataWorkApp.csproj.CopyComplete
